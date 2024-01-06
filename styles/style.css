@@ -100,7 +100,7 @@ display: flex;
 justify-content: space-between;
 gap: 22px;
 color: #ccc;
-font-size: 16px
+font-size: 16px;
 }
     
 .intro__title {
